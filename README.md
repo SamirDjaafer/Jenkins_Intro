@@ -51,7 +51,14 @@
 
 1. Execute the shell commands you want to run from inside your virtual machine on the testing environment.
 
-- Post action builds
+### Post-build actions
+
+1. Git Publisher
+2. Push Only If Build Succeeds - (Tick box)
+3. Merge Results - (Tick box)
+4. Add Branch
+5. Branch to push - (write master)
+6. Target remote name - (write origin)
 
 
 
